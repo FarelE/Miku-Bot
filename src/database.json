@@ -1,0 +1,79 @@
+{
+  "data": {
+    "users": {
+      "6288216335309@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 1e+24,
+        "cheatgame": false,
+        "banned": false
+      }
+    },
+    "chats": {
+      "6288216335309@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false,
+        "antiviewonce": false,
+        "antiporn": false
+      },
+      "120363020150493310@g.us": {
+        "mute": false,
+        "antilink": false,
+        "antiviewonce": false,
+        "antiporn": false
+      }
+    },
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "family100": [],
+      "math": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "lontong": [],
+      "lontong_desk": [],
+      "kalimat": [],
+      "lirik": [],
+      "tebakan": [],
+      "siapaaku": [],
+      "asahotak": [],
+      "susunkata": [],
+      "tebakbendera": [],
+      "tebakkabupaten": [],
+      "tebakkimia": [],
+      "tekateki": []
+    },
+    "settings": {
+      "displaymenu": "gif",
+      "canvasvariant": "BA",
+      "62882008912405@s.whatsapp.net": {
+        "status": 0,
+        "autobio": false,
+        "autoread": false,
+        "autoketik": false,
+        "autorecord": false,
+        "autoonline": false,
+        "autooffline": false
+      }
+    },
+    "others": {
+      "vote": [],
+      "absenstart": []
+    },
+    "sticker": {}
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "database/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "database/database.json",
+        "tempFilename": "database/.database.json.tmp"
+      }
+    }
+  }
+}
