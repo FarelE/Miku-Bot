@@ -7,7 +7,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.prems = ["6288216335309","62882008912405"]
+global.prems = ["62882021947109","6289510173767"]
 // Website Api
 global.APIs = {
 	zenz: 'https://zenzapi.xyz',
@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.botname = '𝗠𝗜𝗞𝗨 𝗕𝗢𝗧'
-global.namasbot = 'Miku'
-global.wm = '© Miku-Bot'
-global.owner = ['6288216335309','62882008912405']
-global.packname = 'A.Farel.E'
-global.author = 'Miku-Bot'
+global.botname = '𝗞𝗨𝗥𝗨𝗠𝗜 𝗕𝗢𝗧'
+global.namasbot = 'Kurumi'
+global.wm = '© Kurumi-Bot'
+global.owner = ['62882021947109','6289510173767','6288216335309']
+global.packname = 'Kurumi || 2022'
+global.author = 'Kurumi-Bot'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
