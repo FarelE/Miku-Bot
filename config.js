@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 // Other
-global.botname = '𝗞𝗨𝗥𝗨𝗠𝗜 𝗕𝗢𝗧'
-global.namasbot = 'Kurumi'
-global.wm = '© Kurumi-Bot'
-global.owner = ['62882021947109','6289510173767','6288216335309']
-global.packname = 'Kurumi || 2022'
-global.author = 'Kurumi-Bot'
+global.botname = '𝗩𝗜𝗖𝗧𝗢𝗥 𝗕𝗢𝗧'
+global.namasbot = 'Victor'
+global.wm = '© Victor-Bot'
+global.owner = ['6288210353407','6281283672344','6288216335309']
+global.packname = 'Victor || 2022'
+global.author = 'Victor-Bot'
 global.sessionName = 'session'
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
